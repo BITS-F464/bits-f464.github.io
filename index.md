@@ -8,8 +8,8 @@ description: Developed at BITS Pilani, KK Birla Goa Campus
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="pages/tutorial.html">Tutorial</a></li>
-          <li><a href="pages/lab.html">Lab</a></li>
+          <li><a href="pages/tutorial.html">TUTORIALS</a></li>
+          <li><a href="pages/lab.html">LABS</a></li>
       </ul>
   </div>
 </div>
