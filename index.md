@@ -14,7 +14,7 @@ description: Developed at BITS Pilani, KK Birla Goa Campus
   </div>
 </div>
 
-<img src="assets/pics/nofreelunch.png" title="No Free Lunch Theorem"/>
+<img src="assets/pics/modified_bayes_theorem.png" title="Bayes"/>
 
 <!--
 <table class="wide">
